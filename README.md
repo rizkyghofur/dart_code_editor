@@ -1,6 +1,6 @@
 # dart_code_editor
 
-Project sederhana dart code editor Dart dengan Flutter.
+Project sederhana dart code editor dengan Flutter.
 
 Referensi: [Creating Code editor in Flutter | IDE in Flutter | In Hindi oleh Optimizer](https://www.youtube.com/watch?v=r-8wDNXHo4o)
 
